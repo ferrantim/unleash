@@ -2249,14 +2249,7 @@
   dependencies:
     undici-types "~5.26.4"
 
-"@types/node@18.19.25":
-  version "18.19.25"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.19.25.tgz#bde496da9937031ef60e615418160b71f0b03776"
-  integrity sha512-NrNXHJCexZtcbR9K1hsv1fSbwAwnhv7ql7l331aKvW0sej5H0NY1o64BHe0AA2ZoQuTm7NE6fyNW079MOWXe4Q==
-  dependencies:
-    undici-types "~5.26.4"
-
-"@types/node@^20.11.26":
+"@types/node@20.11.30", "@types/node@^20.11.26":
   version "20.11.30"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-20.11.30.tgz#9c33467fc23167a347e73834f788f4b9f399d66f"
   integrity sha512-dHM6ZxwlmuZaRmUPfv1p+KrdD1Dci04FbdEm/9wEMouFqxYoFl5aMkt0VMAUtYRQDyYvD41WJLukhq/ha3YuTw==
